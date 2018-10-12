@@ -12,7 +12,7 @@ RAW_TEST_FILES = \
 GENERATED_TEST_FILES = $(RAW_TEST_FILES:.raw=.raw.h)
 
 bench_bench_dash_SOURCES = \
-  bench/bench_dash.cpp \
+  bench/bench_litedash.cpp \
   bench/bench.cpp \
   bench/bench.h \
   bench/checkblock.cpp \
