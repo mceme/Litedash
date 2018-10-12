@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 LiteDash Core staging tree 0.12.3
 ===============================
 
@@ -75,3 +76,10 @@ Translations are periodically pulled from Transifex and merged into the git repo
 pull from Transifex would automatically overwrite them again.
 
 Translators should also follow the [forum](https://www.LiteDash.org/forum/topic/LiteDash-worldwide-collaboration.88/).
+=======
+# Litedash
+
+
+
+Lite and fast payment system
+>>>>>>> 970d077d2aa998665ef906066b897b54e90c66b8
